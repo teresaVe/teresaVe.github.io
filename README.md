@@ -1,3 +1,3 @@
 # teresav.github.io
 
-Welcome!
+Welcome! This will be a main page for assigments.
