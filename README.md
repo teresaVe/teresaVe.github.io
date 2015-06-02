@@ -1,3 +1,3 @@
 # teresav.github.io
 
-Welcome! This will be a main page.
+Welcome! This will be the main page.
